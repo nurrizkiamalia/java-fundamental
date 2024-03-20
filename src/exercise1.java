@@ -89,6 +89,7 @@ public class exercise1 {
         in.nextLine();
         in.close();
 //        Number 5
+//        Print out short name
         System.out.print("Name: ");
         String name = in.nextLine();
         firstLetterInitial(name);
