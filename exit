@@ -1,0 +1,12 @@
+[1mdiff --git a/src/exercise1.java b/src/exercise1.java[m
+[1mindex 525825d..64be050 100644[m
+[1m--- a/src/exercise1.java[m
+[1m+++ b/src/exercise1.java[m
+[36m@@ -79,6 +79,7 @@[m [mpublic class exercise1 {[m
+         in.nextLine();[m
+ [m
+ //        Number 4[m
+[32m+[m[32m//        This to calculate different day[m
+         System.out.print("Date before: ");[m
+         String date1 = in.nextLine();[m
+         System.out.print("Date after: ");[m

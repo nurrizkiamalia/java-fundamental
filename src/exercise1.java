@@ -79,6 +79,7 @@ public class exercise1 {
         in.nextLine();
 
 //        Number 4
+//        This to calculate different day
         System.out.print("Date before: ");
         String date1 = in.nextLine();
         System.out.print("Date after: ");
