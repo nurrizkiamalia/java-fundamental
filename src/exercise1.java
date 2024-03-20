@@ -87,10 +87,11 @@ public class exercise1 {
         System.out.println("Date Difference: "+dateDifferences(date1, date2)+" days");
         System.out.println();
         in.nextLine();
-        in.close();
+
 //        Number 5
         System.out.print("Name: ");
         String name = in.nextLine();
+        in.close();
         firstLetterInitial(name);
     }
 }
