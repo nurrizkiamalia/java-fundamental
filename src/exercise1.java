@@ -89,6 +89,7 @@ public class exercise1 {
         in.nextLine();
 
 //        Number 5
+//        for git purpose
         System.out.print("Name: ");
         String name = in.nextLine();
         in.close();
